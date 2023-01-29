@@ -22,4 +22,4 @@ Bot omegle para android e pc, resolvendo recaptcha automaticamente e identifican
 
 - Ao iniciar abra a pagina: http://localhost:3000/
 - Informe qual versão do codio você deseja usar:
-<img src="https://pbs.twimg.com/media/Fk9BfSbXgAAWRhA?format=jpg&name=large](https://telegra.ph/file/787431e7c2583f988e88a.png">
+<img src="https://telegra.ph/file/787431e7c2583f988e88a.png">
