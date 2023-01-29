@@ -1,0 +1,16 @@
+{
+  "name": "omegle-ultrabot",
+  "version": "1.0.1",
+  "description": "Um bot para o site omegle que funcina tanto em android, tanto em pc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "delay": "^5.0.0",
+    "puppeteer": "^19.6.1"
+  }
+}
